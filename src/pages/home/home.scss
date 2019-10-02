@@ -1,8 +1,23 @@
 page-home {
-    
+    color: #488aff;
+
     ion-title{
         margin: auto;
         padding-top: 10px;
         
+    }
+    .botao{
+        margin-top: 10px;
+    }
+    .textos{
+        text-align: center;
+    }
+    .central{
+        padding-top: 100px;
+    }
+    h2{ 
+        text-align: center;
+        padding-top: 30px;
+        font-size: 30px;
     }
 }
